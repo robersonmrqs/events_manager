@@ -33,8 +33,8 @@ Gerar Relatórios:
 Clique em Gerar Relatório para exportar os dados em Excel ou PDF.
 Excluir um Evento:
 Na busca ou relatório, selecione o evento desejado e clique em Excluir.
-Pré-requisitos
 
+Pré-requisitos
 Ambiente de Execução:
 Python 3.10+ (se estiver rodando via código-fonte).
 Executável gerado (não requer instalação de Python).
@@ -42,4 +42,4 @@ Executável gerado (não requer instalação de Python).
 Dependências:
 Certifique-se de que o ffmpeg está instalado e configurado no PATH para conversão de áudio.
 
-Com essa aplicação, você pode gerenciar eventos de forma prática e inteligente, economizando tempo com o poder da inteligência artificial! 
+Com essa aplicação, você pode gerenciar eventos de forma prática e inteligente, economizando tempo com o poder da inteligência artificial!
